@@ -1,0 +1,1 @@
+The font used is Chivo Bold. Don't mix this up with the one on Google Webfonts.
